@@ -1,0 +1,16 @@
+.container {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.container input {
+    display: block;
+    text-align: center;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+  
+.stream {
+    width: 480px;
+    height: 320px;
+}
